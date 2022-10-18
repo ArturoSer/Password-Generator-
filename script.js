@@ -56,7 +56,7 @@ if (passwordLength < 8 || passwordLength > 128) {
   generatePassword()  
 }
 
-var isupperCharacters = window.confirm("Do you want any uppercase in your password?")
+var isupperCharacters = window.confirm("Do you want any uppercase letters in your password?")
 
 var islowerCharacters = window.confirm("Do you want any lowercase letters in your password")
 
