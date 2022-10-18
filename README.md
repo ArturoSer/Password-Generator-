@@ -1,25 +1,24 @@
-# Password-Generator
+# Password Generator
 
-## User Story
+## Description 
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+At first when opening the webiste you are prompted with a random password generator
+Then you click the button to get started! 
+You should be prompted with how long you want your password to be and after inputing a number chosen between 8-128 characters you get another prompt asking you if you want uppercase characters / lowercase characters / special characters and lastly number characters
+After you have chosen your options then the random password will be shown in the box and you can copy and paste
 
-## Acceptance Criteria
+## Installation
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+N/A
+
+## Usage
+
+The point of the webpage is to help those who need a password made for different platforms instead of giving them the hassle of having to constantly think of one. 
+
+## Credits
+
+N/A
+
+## Portfolio Page
+
+![Password-Generator-] 
